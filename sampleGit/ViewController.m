@@ -20,6 +20,8 @@
     NSLog(@"dsafasdf");
     int a;
     a = 1;
+    int b;
+    b = 5;
 }
 
 - (void)didReceiveMemoryWarning {
